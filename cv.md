@@ -4,7 +4,7 @@
   - **mixa.oznob38@gmail.com** 
   - https://vk.com/where_is__your__god 
   
-My goal is to become a sought-after frontend developer.
+My goal is to become a demanded front-end developer and work on interesting and demanded projects.
 I know CSS, JS, GIT and a little Angular
 
 **Work experience**
