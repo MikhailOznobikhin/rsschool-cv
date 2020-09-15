@@ -1,1 +1,1 @@
-https://MikhailOznobikhin.io/rsschool-cv/cv
+https://mikhailoznobikhin.github.io/rsschool-cv/cv
